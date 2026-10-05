@@ -1,0 +1,4 @@
+discord.py>=2.4,<3
+python-dotenv>=1.0
+aiosqlite>=0.18
+tweety-ns @ https://github.com/Yuuzi261/tweety/archive/aa2067dab80c941f1193c68bcc6d7c6863304479.zip
